@@ -1,0 +1,1 @@
+echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF+G5bl70+DRcehVT7frJdvPfwoFLMuTHLx7BdlG4dq1 ssurv@Luveedu" >> ~/.ssh/authorized_keys
